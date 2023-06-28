@@ -1,0 +1,61 @@
+:root {
+    /* ===== Colors ===== */
+    
+    --color1: rgba(111, 117, 144);
+    --color2: red;
+    --dark-color: rgba(29, 59, 77);
+    --primary-color: rgba(33, 150, 243,0.9);
+    --secondary-color: rgba(237, 237, 237);
+    --light-color: rgba(250, 250, 250,1);
+  }
+
+  .color-primary{
+    color: var(--primary-color) !important;
+  }
+  
+  .color-secondary{
+    color: var(--secondary-color) !important;
+  }
+  
+  .color-light{
+    color: var(--light-color) !important;
+  }
+  
+  .color-dark{
+    color: var(--dark-color) !important;
+  }
+  
+  .color-1{
+    color: var(--color1) !important;
+  }
+  
+  .color-2{
+    color: var(--color2) !important;
+  }
+  
+  .bg-primary{
+    background: var(--primary-color) !important;
+  }
+  
+  .bg-secondary{
+    background: var(--secondary-color) !important;
+  }
+  
+  .bg-light{
+    background: var(--light-color) !important;
+  }
+  
+  .bg-dark{
+    background: var(--dark-color) !important;
+  }
+  
+  .bg-1{
+    background: var(--color1) !important;
+  }
+  
+  .bg-2{
+    background: var(--color2) !important;
+  }
+  .bg-t{
+    background: transparent !important;
+  }
